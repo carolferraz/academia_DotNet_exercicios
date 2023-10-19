@@ -1,0 +1,14 @@
+C:\Users\CarolFerraz\Desktop\AcademiaDotNet\Exercicio9\Exercicio9\bin\Debug\net6.0\Exercicio9.exe
+C:\Users\CarolFerraz\Desktop\AcademiaDotNet\Exercicio9\Exercicio9\bin\Debug\net6.0\Exercicio9.deps.json
+C:\Users\CarolFerraz\Desktop\AcademiaDotNet\Exercicio9\Exercicio9\bin\Debug\net6.0\Exercicio9.runtimeconfig.json
+C:\Users\CarolFerraz\Desktop\AcademiaDotNet\Exercicio9\Exercicio9\bin\Debug\net6.0\Exercicio9.dll
+C:\Users\CarolFerraz\Desktop\AcademiaDotNet\Exercicio9\Exercicio9\bin\Debug\net6.0\Exercicio9.pdb
+C:\Users\CarolFerraz\Desktop\AcademiaDotNet\Exercicio9\Exercicio9\obj\Debug\net6.0\Exercicio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CarolFerraz\Desktop\AcademiaDotNet\Exercicio9\Exercicio9\obj\Debug\net6.0\Exercicio9.AssemblyInfoInputs.cache
+C:\Users\CarolFerraz\Desktop\AcademiaDotNet\Exercicio9\Exercicio9\obj\Debug\net6.0\Exercicio9.AssemblyInfo.cs
+C:\Users\CarolFerraz\Desktop\AcademiaDotNet\Exercicio9\Exercicio9\obj\Debug\net6.0\Exercicio9.csproj.CoreCompileInputs.cache
+C:\Users\CarolFerraz\Desktop\AcademiaDotNet\Exercicio9\Exercicio9\obj\Debug\net6.0\Exercicio9.dll
+C:\Users\CarolFerraz\Desktop\AcademiaDotNet\Exercicio9\Exercicio9\obj\Debug\net6.0\refint\Exercicio9.dll
+C:\Users\CarolFerraz\Desktop\AcademiaDotNet\Exercicio9\Exercicio9\obj\Debug\net6.0\Exercicio9.pdb
+C:\Users\CarolFerraz\Desktop\AcademiaDotNet\Exercicio9\Exercicio9\obj\Debug\net6.0\Exercicio9.genruntimeconfig.cache
+C:\Users\CarolFerraz\Desktop\AcademiaDotNet\Exercicio9\Exercicio9\obj\Debug\net6.0\ref\Exercicio9.dll
